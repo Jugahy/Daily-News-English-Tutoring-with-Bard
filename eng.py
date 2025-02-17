@@ -199,7 +199,7 @@ for i in news:
           pass
 
 # 바드 ---------------------------------------------------------------------
-os.environ['_BARD_API_KEY'] = "YQj0rPNxh8-NdDhzf-NgXqC9y2o38ln0-1i0nirGh8IA6QbiX9ERnSYRX_yhh_bhVrlAMw."
+os.environ['_BARD_API_KEY'] = ""
 
 # input_text = f"다음 주제에 관련된 문제를 영어로 생성해주세요: {english_news[0]}. 이 문제는 4개의 보기를 포함해야 하며, 그중 정답은 1개여야 합니다. 그리고 출력 형태는 Question:who are you? Answer Choices:1. a. 2. b. 3. c. 4. d. Correct Answer: 4. d. 이런식으로 출력해주세요."
 #
